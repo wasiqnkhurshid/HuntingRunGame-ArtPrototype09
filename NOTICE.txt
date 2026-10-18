@@ -1,4 +1,4 @@
-Running motion uses retargeted CMU 09_01 capture.
+Running motion uses retargeted CMU 35_18 capture.
 The data used in this project was obtained from mocap.cs.cmu.edu.
 The database was created with funding from NSF EIA-0196217.
 https://mocap.cs.cmu.edu/
