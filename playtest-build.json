@@ -1,7 +1,7 @@
 {
-  "version": "ArtPrototype09-Art08Fallback",
-  "motion": "CMU09_01",
-  "source": "7e6bd9617110eb9e4c66a584cba762963f22d310",
+  "version": "ArtPrototype09-CMU35Run",
+  "motion": "CMU35_18",
+  "source": "6f82b057586dbe589c00f0da23792dbbcdb2a2be",
   "stableGameplay": "Gameplay19",
   "saveDatabase": "HuntingRun.ArtPrototype09:/idbfs"
 }
